@@ -1,3 +1,5 @@
-# mcis6273-f25-datamining - This is my repo for MCIS 6273 - Data Mining (Fall 2025).
+# mcis6273-f25-datamining
 
 Zotero username: anilmandiga
+
+This is my repo for HW0
